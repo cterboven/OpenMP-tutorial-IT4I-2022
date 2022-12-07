@@ -20,5 +20,5 @@ OpenMP tutorial given by Michael Klemm and Christian Terboven in 2022-12.
 
 # Exercises:
 * Simple codes: use .tar file: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/blob/main/openmp-simple-exercises.tar
-* More complex codes: see exercises directory: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/tree/main/exercises
+* More complex codes: see exercises directory: https://github.com/cterboven/OpenMP-tutorial-IT4I-2022/tree/main/exercises
 
