@@ -17,6 +17,7 @@ OpenMP tutorial given by Michael Klemm and Christian Terboven in 2022-12.
    * Cut-off
    * Using OpenMP Compilers
    * Hands-on Overview
+* Slide deck of second day: https://github.com/cterboven/OpenMP-tutorial-IT4I-2022/blob/main/OpenMP%20Workshop%20Day%202.pdf
 
 # Exercises:
 * Simple codes: use .tar file: https://github.com/cterboven/OpenMP-tutorial-PRACE-2022/blob/main/openmp-simple-exercises.tar
